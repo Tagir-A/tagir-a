@@ -4,7 +4,7 @@ Nice to meet you.
 
 I'm a dev, who can solve your problems. Mostly frontend, but I'm working on solving anything :wink:
 
-Currently, you can meet me somewhere at [Revolut](https://www.revolut.com/) ![Revolut Logo](https://cdn.brandfolder.io/36T1FNCB/at/q6fegl-cu12w8-ch6voy/R_Black.svg =20x20)
+Currently, you can meet me somewhere at [Revolut](https://www.revolut.com/)
 
 
 <!--
