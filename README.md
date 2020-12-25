@@ -1,7 +1,10 @@
 
 ### Hey, it's Tagir 👨‍💻
+
 Nice to meet you.
+
 I'm a dev, who can solve your problems. Mostly frontend, but I'm working on solving anything :wink:
+
 Currently, you can meet me somewhere at [Revolut](https://www.revolut.com/)
 
 
