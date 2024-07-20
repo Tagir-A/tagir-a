@@ -1,10 +1,12 @@
+
 ### Hey, it's Tagir 👨‍💻
 
 Nice to meet you.
 
-I'm a dev, who can solve your problems. Mostly frontend, but I'm working on solving anything :wink:
+I'm a dev, who can solve your problems. Anything web related  :wink:
 
-Currently, you can meet me somewhere at [Revolut](https://www.revolut.com/)
+My professional journey so far:
+~~[Delivery Hero](https://www.deliveryhero.com)~~  =>  ~~[Justwatch](https://www.justwatch.com)~~ =>  ~~[Revolut](https://www.revolut.com/)~~ => ~~Founding a company~~ => ~~Closing a company~~ => [Axel Springer](https://www.axelspringer.com/de/)
 
 
 <!--
