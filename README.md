@@ -6,7 +6,7 @@ Nice to meet you.
 I'm a dev, who can solve your problems. Anything web related  :wink:
 
 My professional journey so far:
-~~[Delivery Hero](https://www.deliveryhero.com)~~  =>  ~~[Justwatch](https://www.justwatch.com)~~ =>  ~~[Revolut](https://www.revolut.com/)~~ => ~~Founding a company~~ => ~~Closing a company~~ => [Axel Springer](https://www.axelspringer.com/de/)
+~~[Delivery Hero](https://www.deliveryhero.com)~~  =>  ~~[Justwatch](https://www.justwatch.com)~~ =>  ~~[Revolut](https://www.revolut.com/)~~ => ~~Founding a company~~ => ~~Closing a company~~ => [Axel Springer](https://www.axelspringer.com/de/)
 
 
 <!--
